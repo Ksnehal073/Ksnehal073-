@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Snehal Karki</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3>Hi there, I'm Snehal👋</h3>
+<h3>A passionate frontend developer.</h3>
 
 - 🌱 I’m currently learning **everything**
 
