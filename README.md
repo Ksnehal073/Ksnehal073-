@@ -5,8 +5,6 @@
 
 - 🥅 2021 Goals **Becoming a full stack developer**
 
-- ⚡ Fun fact **I love to watch movies**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/snehal.karki.94" target="blank"><img align="center" style="background-color:black;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="snehal.karki.94" height="30" width="40" /></a>
