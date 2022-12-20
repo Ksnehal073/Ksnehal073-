@@ -1,5 +1,6 @@
 <h3>Hi there, I'm Snehal👋</h3>
 <h3>A passionate frontend developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ksnehal073&label=Profile%20views&color=0e75b6&style=flat" alt="Ksnehal073" /> </p>
 
 - 🌱 I’m currently learning **everything**
 
