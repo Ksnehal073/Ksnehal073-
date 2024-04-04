@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Snehal Karki</h1>
 <h3 align="center">A tireless Seeker of Knowledge</h3>
+<p align="center">
+  <img src="https://media.tenor.com/-RYUs_Icgw4AAAAi/crayon-shin-chan-crayon-shin-chan-dance.gif" alt="Shin Chan Dance" width="150" height="150">
+</p>Ï
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalkarkii&label=Profile%20views&color=0e75b6&style=flat" alt="snehalkarkii" /> </p>
 
@@ -9,7 +12,7 @@
 
 - 📫 How to reach me **snehalkarki123@gmail.com**
 
-- I'm an experienced React and React Native developer eager to utilize my skills during nighttime hours in a remote part-time role. If you're seeking a dedicated professional to bolster your team's capabilities during the night, I'm here to deliver.
+- I'm an experienced React and React Native developer with 1 year + of industry-level experience and 2 years of self-learning, eager to utilize my skills during nighttime hours in a remote part-time role. If you're seeking a dedicated professional to bolster your team's capabilities during the night, I'm here to deliver."
 
 
 <h3 align="left">Connect with me:</h3>
