@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **snehalkarki123@gmail.com**
 
-- I'm an experienced React and React Native developer with 1 year + of industry-level experience and 2 years of self-learning, eager to utilize my skills during nighttime hours in a remote part-time role. If you're seeking a dedicated professional to bolster your team's capabilities during the night, I'm here to deliver."
+- I'm an experienced React and React Native developer with 2 year + of industry-level experience and 1 years of self-learning, eager to utilize my skills during nighttime hours in a remote part-time role. If you're seeking a dedicated professional to bolster your team's capabilities during the night, I'm here to deliver."
 
 
 <h3 align="left">Connect with me:</h3>
